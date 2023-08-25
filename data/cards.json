@@ -1,0 +1,38 @@
+[
+    {
+        "image": "assets/chili.png",
+        "name": "chili"
+    },
+    {
+        "image": "assets/grapes.png",
+        "name": "grapes"
+    },
+    {
+        "image": "assets/.png",
+        "name": ""
+    },
+    {
+        "image": "assets/austin-theory.jpg",
+        "name": "austin-theory"
+    },
+    {
+        "image": "assets/seth_freakin__rollins.png",
+        "name": "seth"
+    },
+    {
+        "image": "assets/bray-wyatt.jpg",
+        "name": "braywyatt"
+    },
+    {
+        "image": "assets/Loganpaul.png",
+        "name": "Loganpaul"
+    },
+    {
+        "image": "assets/therock.png",
+        "name": "the rock"
+    },
+    {
+        "image": "assets/roman.png",
+        "name": "roman"
+    }
+]
